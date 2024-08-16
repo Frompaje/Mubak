@@ -1,9 +1,11 @@
+import { Navigation } from "./ui/navigation"
+
 
 export function App() {
 
   return (
     <>
-    <h1>aa</h1>
+      <Navigation/>
     </>
   )
 }
